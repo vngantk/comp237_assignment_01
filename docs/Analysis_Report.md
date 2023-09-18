@@ -185,3 +185,8 @@ instructions document. The changes are as follows:
    ![](Unit_Test_Console_Output.png)
 3. Unit Test Code Coverage
    ![](Unit_Test_Code_Coverage_Output.png)
+
+## Video Clips
+1. Program Execution
+   ![](Program_Execution_Video.mp4)
+   
