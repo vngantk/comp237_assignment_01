@@ -187,6 +187,6 @@ instructions document. The changes are as follows:
    ![](Unit_Test_Code_Coverage_Output.png)
 
 ## Video Clips
-1. Program Execution
-   ![](Program_Execution_Video.mp4)
-   
+1. [Program Execution Video](https://vngantk.github.io/public/comp237/Program_Execution_Video.mp4)
+2. [Unit Test Execution Video](https://vngantk.github.io/public/comp237/Unit_Test_Video.mp4)
+3. [Unit Test Coverage Video](https://vngantk.github.io/public/comp237/Unit_Test_Coverage.mp4)
